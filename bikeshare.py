@@ -126,7 +126,7 @@ def time_stats(df):
    
     #Add plotly express bar chart to show number of trips by start time
     print('\nThe chart below shows the number of trips by the start hour: ')
-    fig = px.bar(df['hour'].value_counts(), title="Number of Bikeshare Trips by Hour Trip Started")
+    fig = px.bar(df['hour'].value_counts(), title="Number of Bikeshare Trips by starting hour of trip")
     fig.show() 
     
    
@@ -262,7 +262,7 @@ def see_data(df):
                 print (stats)
                 yes_count += 1*5
             elif show_head.lower() != 'no':
-                print ('sorry I do not understand that')
+                print ('Sorry I do not understand that. Please enter yes or no')
             else:
                 break
         
