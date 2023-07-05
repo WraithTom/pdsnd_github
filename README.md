@@ -1,3 +1,5 @@
+## Overview:
+This is a python app which allows users to explore bike share data for three US cities: New York, Washington and Chicago
 
 I have used **several websites** to produce the code for the _Bikeshare project_ and have listed them below. 
 
