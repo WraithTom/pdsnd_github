@@ -24,4 +24,5 @@ Reources used for producing and editing the charts are:
 * Histograms [Plotly Histograms](https://plotly.com/python/histograms/)
 * https://plotly.com/python/figure-labels/
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+## Known Issues
+Data for Washington excludes some demongarphic information used in other cities. I have got around this by including a global variable which means some parts of the code don't run if Washington is selected
