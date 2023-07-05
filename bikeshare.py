@@ -262,7 +262,7 @@ def see_data(df):
                 print (stats)
                 yes_count += 1*5
             elif show_head.lower() != 'no':
-                print ('sorry I do not understand that')
+                print ('Sorry I do not understand that. Please enter yes or no')
             else:
                 break
         
