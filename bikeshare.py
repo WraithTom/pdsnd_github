@@ -126,7 +126,7 @@ def time_stats(df):
    
     #try adding a bar chart to show the hours travelled
     print('\nThe chart below shows the number of trips by the start hour: ')
-    fig = px.bar(df['hour'].value_counts(), title="Number of Bikeshare Trips by Hour Trip Started")
+    fig = px.bar(df['hour'].value_counts(), title="Number of Bikeshare Trips by starting hour of trip")
     fig.show() 
     
    
