@@ -16,8 +16,8 @@ I have also used Plotly Express to produce two charts. When I run the program fr
 * https://www.w3schools.com/python/gloss_python_string_concatenation.asp
 
 ### Summary statistics
-* https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nlargest.html
-* https://www.statology.org/pandas-value_counts-percentage/
+* [NLargest](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nlargest.html)
+* [Percentage Value Counts](https://www.statology.org/pandas-value_counts-percentage/)
 
 ### Charts:
 Reources used for producing and editing the charts are:
