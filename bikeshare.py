@@ -20,7 +20,7 @@ def get_filters():
     """
 
     print('Hello and welcome!\nLet\'s explore some US bikeshare data!')
-##handle all the user input make city a global variable so it can be used in the user stats function
+##handle all the user input make city a global variable so it can be used in the user stats function. The global variable will be used to exclude miss some code if washington is selectec as it doesn't have the same demographics as the other cities
     while True:
         global city
         city = input("Do you want to look at data for Chicago, New York City or Washington?")
