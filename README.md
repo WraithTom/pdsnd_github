@@ -1,17 +1,25 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+I have used **several websites** to produce the code for the _Bikeshare project_ and have listed them below. 
 
-### Project Title
-Replace the Project Title
+I have also used Plotly Express to produce two charts. When I run the program from the command line these are opening in separate windows in my browser. 
 
-### Description
-Describe what your project is about and what it does
+## Resources
 
-### Files used
-Include the files used
+### Data Wrangling:
+* https://pythonfordatascienceorg.wordpress.com/recode-data/
+* https://www.tutorialsteacher.com/articles/convert-string-to-datetime-in-python?utm_content=cmp-true
+* https://stackoverflow.com/questions/14538885/how-to-get-the-index-with-the-key-in-a-dictionary
+* https://pythonguides.com/python-format-number-with-commas/
+* https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+* https://www.w3schools.com/python/gloss_python_string_concatenation.asp
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Summary statistics
+* https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nlargest.html
+* https://www.statology.org/pandas-value_counts-percentage/
 
+### Charts:
+Reources used for producing and editing the charts are:
+* Histograms [Plotly Histograms](https://plotly.com/python/histograms/)
+* https://plotly.com/python/figure-labels/
+
+This site was built using [GitHub Pages](https://pages.github.com/).
